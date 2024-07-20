@@ -13,6 +13,9 @@ pnpm dev
 # or
 bun dev
 ```
+## UI Libraries
+ShadCN
+MagicUI
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
